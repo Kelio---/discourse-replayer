@@ -1,4 +1,0 @@
-plugins:
-  discourse_replayer_plugin_enabled:
-    default: true
-    client: true
